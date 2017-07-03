@@ -1,4 +1,40 @@
 
+div.panel-heading {
+	text-align: center;
+	font-family: 'Lucida Console';
+	font-size: 45px;
+	color: #ff6633;
+	
+}
+
+
+div.panel-body {
+	text-align: center;
+	font-family: 'Lucida Console';
+	color: #558000;
+	
+}
+
+p.align {
+	text-align: center;
+	font-family: 'Lucida Console';
+	padding: 10px 0 0 0;
+	font-size: 25px;
+	
+
+}
+
+p.email {
+	text-align: center;
+	font-family: 'Lucida Console';
+	margin: 0;
+}
+
+a.email-link {
+	text-align: center;
+	padding: 20px 0 0 0;
+}
+
 body {
 	background-image: url(image2.png);
 	font-family: 'Roboto', sans-serif;
@@ -71,3 +107,49 @@ img {
     margin: auto;
     width: 70%;
 	}
+
+
+a.emailfont {
+
+	font-family: 'Lucida Console';
+	font-size: 20px;
+	
+}
+
+
+h1 {
+	text-align: center;
+	font-family: 'Lucida Console';
+	font-size: 30px;
+	color: #ff6633;
+}
+
+em {
+	color: #4d79ff;
+}
+
+h4	{
+	text-align: center;
+
+}
+
+
+.myPanel {
+	text-align: center;
+	border: 1px solid #587D6D;
+	border-radius: 5px;
+	margin: 3%
+}
+
+.myPanel .heading {
+	background: #ff6633;
+	border-radius: 5px 5px 0 0;
+	color: #3366ff;
+	padding: 10px 20px
+}
+
+.myPanel .body {
+	text-align: center;
+	padding: 10px 20px;
+}
+
