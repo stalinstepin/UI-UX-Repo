@@ -1,103 +1,116 @@
+
+
 h1.intro {
-	color: #87a019;
-	font-size: 25px;
-	text-align: center;
-	
+  color: #dc2e2e;
+  font-size: 25px;
+  text-align: center;
+  
 }
 
 .paragraph-text {
-	font-size: 15px;
-	
+  font-size: 15px;
+  
 }
 
 .header-text {
-	background: #333B4E;
-	border: 2px solid #ff7700;
-	border-radius: 5px;
-	color: white;
-	padding: 25px;
-	text-align: center;
+  background: #333B4E;
+  border: 2px solid #ff7700;
+  border-radius: 5px;
+  color: white;
+  padding: 25px;
+  text-align: center;
 }
 
 .paragraph-text {
-	color: black;
+  color: black;
 }
 
+
+#navbar ul li a:hover {
+  color: orange;
+
+}
 
 #navbar ul li a {
-	color: black;
+  color: black;
+
 }
 
+.nav li a:hover {
+   color: #262C3A ;
+}
+
+
 #navbar ul li a span {
-	color: #505c70;
+  color: #505c70;
 }
 
 
 div.copyright {
-	background: #262C3A;
-	color: white;
-	padding: 15px;
+  background: #262C3A;
+  color: white;
+  padding: 15px;
 }
 
 .copyright .container span {
-	color: #E95E51;
+  color: #E95E51;
 }
 
 .copyright .container a {
-	color: #00fff2;
+  color: #00fff2;
 }
 
 .img-center {
-	display: block;
+  display: block;
     margin: auto;
     width: 95%;
 }
 
 .container video {
-	display: block;
-	margin: auto;
-	width: 40%;
+  display: block;
+  margin: auto;
+  width: 40%;
 }
 
 .container p iframe {
-	display: block;
-	margin: auto;
-	width: 70%;
+  display: block;
+  margin: auto;
+  width: 70%;
 }
 
 .myPanel {
-	border: 2px solid #ff7700;
-	border-radius: 5px 5px 0 0;
+  border: 2px solid #ff7700;
+  border-radius: 5px 5px 0 0;
 
 }
 
 .myPanel .heading {
-	background: #333B4E;
-	border: 0 solid #ff7700;
-	border-radius: 5px 5px 0 0;
-	color: white;
-	font-size: 25px;
-	text-align: center;
-	padding: 25px;
+  background: #333B4E;
+  border: 0 solid #ff7700;
+  border-radius: 5px 5px 0 0;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  padding: 25px;
 }
 
 .myPanel .body p {
-	text-align: center;
+  text-align: center;
 }
 
 .myPanel div a .btn {
-	text-align: center;
+  text-align: center;
 }
 
 p.registration-text {
-	text-align: center;
-	font-size: 25px;
-	color: black;
+  text-align: center;
+  font-size: 25px;
+  color: black;
 }
 
 
 a.btn {
-	display: block;
+  display: block;
     margin: auto;
     width: 10%;
     background-color: white;
@@ -113,7 +126,28 @@ a.btn:hover {
 }
 
 p.para-format {
-	color: #87a019;
-	font-size: 25px;
-	text-align: center;
+  color: #87a019;
+  font-size: 25px;
+  text-align: center;
+}
+
+
+.social-links {
+  background: #333b4e;
+  padding: 4%;
+
+
+}
+
+.social-links ul li a {
+  color: white;
+
+}
+
+.social-links .col-md-4 p {
+  color: white;
+}
+
+.social-links .col-md-4 h1 {
+  color: white;
 }
