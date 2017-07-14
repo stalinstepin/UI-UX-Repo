@@ -63,7 +63,7 @@ div.copyright {
 .img-center {
   display: block;
     margin: auto;
-    width: 95%;
+    width: 100%;
 }
 
 .container video {
@@ -134,7 +134,7 @@ p.para-format {
 
 .social-links {
   background: #333b4e;
-  padding: 4%;
+  padding: 1%;
 
 
 }
@@ -150,4 +150,33 @@ p.para-format {
 
 .social-links .col-md-4 h1 {
   color: white;
+}
+
+
+.social-networks  {
+    
+    background-color: #333B4E;
+}
+
+.social-links .social-networks ul {
+    
+    display: flex;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+
+.social-networks ul li {
+    
+    margin:30px;
+    display: block;
+    transform: translate(300%,300%);
+    margin-left: 50%;
+
+
+
+
 }
